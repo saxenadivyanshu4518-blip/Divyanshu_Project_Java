@@ -1,7 +1,7 @@
 package Multithreading_In_Java;
 
-class Mythr1 extends Thread{
-    public Mythr1(String name){
+class Mythr1 extends Thread {
+    public Mythr1(String name) {
         super(name);
     }
 
@@ -10,7 +10,7 @@ class Mythr1 extends Thread{
 
         // int i = 34 ;
 
-        while(true){
+        while (true) {
 
             System.out.println("Thank you" + this.getName());
         }

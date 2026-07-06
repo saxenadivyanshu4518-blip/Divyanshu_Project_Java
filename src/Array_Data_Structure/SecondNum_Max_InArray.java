@@ -1,4 +1,4 @@
-package Array;
+package Array_Data_Structure;
 
 public class SecondNum_Max_InArray {
     static void main() {

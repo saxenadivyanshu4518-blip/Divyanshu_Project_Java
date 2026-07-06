@@ -1,4 +1,4 @@
-package Array;
+package Array_Data_Structure;
 
 public class Max_In_Array2 {
     static void main() {

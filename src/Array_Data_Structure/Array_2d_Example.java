@@ -1,4 +1,4 @@
-package Array;
+package Array_Data_Structure;
 
 public class Array_2d_Example {
     static void main() {

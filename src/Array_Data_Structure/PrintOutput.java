@@ -1,4 +1,4 @@
-package Array;
+package Array_Data_Structure;
 
 public class PrintOutput {
     static void main(String[] args) {

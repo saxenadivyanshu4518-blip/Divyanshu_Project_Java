@@ -1,4 +1,4 @@
-package Array;
+package Array_Data_Structure;
 
 public class Pass_By_Reference {
     public static void swap (int [] a , int [] b){

@@ -1,4 +1,4 @@
-package Array;
+package Array_Data_Structure;
 
 public class Count_element_greaterThan_X {
     static void main() {

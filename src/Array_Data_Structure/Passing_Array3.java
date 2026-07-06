@@ -1,4 +1,4 @@
-package Array;
+package Array_Data_Structure;
 
 public class Passing_Array3 {
     public static void change(int [] arr){

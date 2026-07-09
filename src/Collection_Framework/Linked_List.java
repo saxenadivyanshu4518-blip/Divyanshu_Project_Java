@@ -17,6 +17,9 @@ package Collection_Framework;
          t1.add(4);
          t1.add(6);
 
+         t1.addFirst(547);
+         t1.addLast(754);
+
          t1.add(0, 5);
          t1.add(0, 1);
 

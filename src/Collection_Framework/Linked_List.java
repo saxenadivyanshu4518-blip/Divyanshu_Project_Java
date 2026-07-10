@@ -5,8 +5,8 @@ package Collection_Framework;
  public class Linked_List {
      static void main() {
 
-         ArrayList<Integer> t1 = new ArrayList<>();
-         ArrayList<Integer> t2 = new ArrayList<>(5);
+         LinkedList<Integer> t1 = new LinkedList<>();
+         LinkedList<Integer> t2 = new LinkedList<>();
 
          t2.add(12);
          t2.add(19);
@@ -17,15 +17,18 @@ package Collection_Framework;
          t1.add(4);
          t1.add(6);
 
-         t1.addFirst(547);
+         t1.addFirst(542);
          t1.addLast(754);
 
          t1.add(0, 5);
          t1.add(0, 1);
 
          t1.addAll(0, t2);
+
          // t1.clear();
+
          System.out.println(t1.contains(9));
+
          System.out.println(t1.indexOf(6));
          System.out.println(t1.lastIndexOf(6));
 
